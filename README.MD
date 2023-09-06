@@ -88,5 +88,5 @@ felipe-exe">LinkedIn</a>
 <p>
 
 ---
-
+⌨️ aprendendo com 💜  [Luiz Henrique](https://github.com/IkkyLuiz)
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
