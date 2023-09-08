@@ -26,6 +26,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 seguem abaixo.
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler o ebook do expert Felipe Aguiar</a>
+
 <a href="https://github.com/IkkyLuiz/prompts-recipe-to-create-a-ebook/blob/main/output/ebookpython02.pdf" title="View PDF now"> 📕Clique aqui para ler o meu ebook de Python</a>
 ## 💻 Tecnologias utilizadas no projeto
 
